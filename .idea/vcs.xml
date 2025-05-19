@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AI-desktop_assistant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shruti-s-AI" vcs="Git" />
   </component>
 </project>
